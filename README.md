@@ -1,2 +1,10 @@
 # TJU-Beamer-Templete
-A TJU (Tianjin University) Beamer Template.
+
+修改自清华大佬翁家翌的版本. 在此特别感谢大佬(膜拜).
+修改Tsinghua.sty文件为Peiyang.sty文件, 并且相应指令也作了相应修改.
+
+特别将原来的清华紫修改为北洋蓝, 并且替换校徽, 使之更加符合TJU的主题.
+
+只是做了一点点很简单的工作, 甚至可能前人已经做过了. 但是我还是决定上传.
+祝各位同学答辩顺利, 毕业快乐!
+
